@@ -14,17 +14,6 @@ A real-world Shopping Cart built with TypeScript, NextJS, React, Apollo Client, 
 - [Eslint](https://eslint.org/) & [Prettier](https://prettier.io/) to lint and format the source code.
 - Deployment on [Heroku](https://heroku.com/)
 
-Hit the **Star** button if you love this project ⭐️
-
-## Checklist
-
-:white_check_mark: &nbsp; TailwindCSS
-<br/>:white_check_mark: &nbsp; Display products
-<br/>:white_check_mark: &nbsp; Product pages
-<br/>:white_check_mark: &nbsp; Add to cart functionality
-<br/>:black_square_button: &nbsp; Pagination
-<br/>:white_check_mark: &nbsp; Deploy to Heroku
-
 ## Demo
 
 You can visit here to see the demo: [https://nextjs-shopify-storefront.herokuapp.com/](https://nextjs-shopify-storefront.herokuapp.com/)
